@@ -1,18 +1,3 @@
-//=============================================================================
-//
-class MAS14P_Segway_New extends MAS14_Actor ClassGroup(MAS14P) placeable;
-//
-// Inverted pendulum OGATA System complete with the driver dynamics.
-//
-// CBPrice 03-04-18
-// Transferred to Segway 10-04-18
-//
-// Status: Development
-// CBP 03-08-21
-// 14-03-21			RELEASE
-//
-//=============================================================================
-
 //variables*********************************************************************
 
 //static mesh components that make up this model--------------------------------
